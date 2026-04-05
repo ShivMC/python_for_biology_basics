@@ -20,13 +20,13 @@ Install Biopython:
 pip install biopython
 
 ## Repository Structure
-01_Python_Basics
-02_File_Handling
-03_Biopython
-04_Sequence_Analysis
-datasets
-assignments
-slides
+-01_Python_Basics
+-02_File_Handling
+-03_Biopython
+-04_Sequence_Analysis
+-datasets
+-assignments
+-slides
 
 ## Author
 Shivani Pawar
